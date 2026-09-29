@@ -78,11 +78,17 @@ Mi formación combina programación, bases de datos, desarrollo web, aplicacione
 
 ## 📊 Actividad en GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oioVIKoio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub de Víctor" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oioVIKoio&theme=tokyo-night&hide_border=true" alt="Gráfico de actividad reciente de Víctor en GitHub" />
-</div>
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=oioVIKoio&theme=ayu&border_radius=6" alt="Estadísticas de GitHub de Víctor" />
+</p>
+
+### 🐍 Contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oioVIKoio/oioVIKoio/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oioVIKoio/oioVIKoio/output/github-contribution-grid-snake.svg" />
+  <img alt="Animación de contribuciones de Víctor" src="https://raw.githubusercontent.com/oioVIKoio/oioVIKoio/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
