@@ -85,9 +85,9 @@ Mi formación combina programación, bases de datos, desarrollo web, aplicacione
 ### 🐍 Contribuciones
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oioVIKoio/oioVIKoio/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oioVIKoio/oioVIKoio/output/github-contribution-grid-snake.svg" />
-  <img alt="Animación de contribuciones de Víctor" src="https://raw.githubusercontent.com/oioVIKoio/oioVIKoio/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oioVIKoio/VictorSantamaria/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oioVIKoio/VictorSantamaria/output/github-contribution-grid-snake.svg" />
+  <img alt="Animación de contribuciones de Víctor" src="https://raw.githubusercontent.com/oioVIKoio/VictorSantamaria/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
